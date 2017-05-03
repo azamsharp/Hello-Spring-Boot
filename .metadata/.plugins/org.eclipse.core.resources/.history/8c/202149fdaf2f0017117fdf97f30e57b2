@@ -1,0 +1,11 @@
+package io.azamsharp.consulting;
+
+@SpringBootApplication
+public class CourseApiApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package io.azamsharp.consulting.controllers;
+
+@RestController
+public class HelloController {
+	
+	@RequestMapping("/hello")
+	public String hi() {
+		return "Hello"
+	}
+}

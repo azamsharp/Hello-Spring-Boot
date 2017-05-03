@@ -1,0 +1,5 @@
+package io.azamsharp.consulting.controllers;
+
+public class HelloController {
+
+}
